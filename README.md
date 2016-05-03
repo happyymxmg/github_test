@@ -1,2 +1,2 @@
-# githup_test
+# github_test
 Start to learn how to use githup
